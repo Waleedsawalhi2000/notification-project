@@ -1,0 +1,24 @@
+.border {
+    border-width:2px;
+    border-style:solid;
+    border-color:black;
+    border-left-width: 450px;
+    border-left-color: white;
+    border-right-color:white;
+    border-right-width: 450px;
+    align-content: center;
+}
+
+.second-border {
+    border-width:2px;
+    border-style:solid;
+    border-color:black;
+    align-content: center;
+    background-color: honeydew;
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
